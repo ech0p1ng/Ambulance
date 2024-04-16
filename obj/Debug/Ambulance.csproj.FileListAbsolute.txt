@@ -1,0 +1,256 @@
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\Ambulance.exe.config
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\Ambulance.exe
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\Ambulance.pdb
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\Npgsql.dll
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\System.Buffers.dll
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\System.Collections.Immutable.dll
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\System.Memory.dll
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\System.Numerics.Vectors.dll
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\System.Text.Encodings.Web.dll
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\System.Text.Json.dll
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\System.Threading.Channels.dll
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\System.ValueTuple.dll
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\Npgsql.xml
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\System.Buffers.xml
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\System.Collections.Immutable.xml
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\System.Memory.xml
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\System.Numerics.Vectors.xml
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\System.Text.Encodings.Web.xml
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\System.Text.Json.xml
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\System.Threading.Channels.xml
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\System.ValueTuple.xml
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\obj\Debug\Ambulance.csproj.AssemblyReference.cache
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\obj\Debug\Ambulance.csproj.SuggestedBindingRedirects.cache
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\obj\Debug\MainWindow.g.cs
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\obj\Debug\App.g.cs
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\obj\Debug\Ambulance_MarkupCompile.cache
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\obj\Debug\Ambulance_MarkupCompile.lref
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\obj\Debug\MainWindow.baml
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\obj\Debug\Ambulance.g.resources
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\obj\Debug\Ambulance.Properties.Resources.resources
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\obj\Debug\Ambulance.csproj.GenerateResource.cache
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\obj\Debug\Ambulance.csproj.CoreCompileInputs.cache
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\obj\Debug\Ambulance.csproj.CopyComplete
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\obj\Debug\Ambulance.exe
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\obj\Debug\Ambulance.pdb
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\MaterialDesignColors.dll
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\MaterialDesignColors.pdb
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\obj\Debug\App.baml
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\Ambulance.exe.config
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\Ambulance.exe
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\Ambulance.pdb
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\MaterialDesignColors.dll
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\Npgsql.dll
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\System.Buffers.dll
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\System.Collections.Immutable.dll
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\System.Memory.dll
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\System.Numerics.Vectors.dll
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\System.Text.Encodings.Web.dll
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\System.Text.Json.dll
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\System.Threading.Channels.dll
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\System.ValueTuple.dll
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\MaterialDesignColors.pdb
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\Npgsql.xml
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\System.Buffers.xml
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\System.Collections.Immutable.xml
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\System.Memory.xml
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\System.Numerics.Vectors.xml
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\System.Text.Encodings.Web.xml
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\System.Text.Json.xml
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\System.Threading.Channels.xml
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\System.ValueTuple.xml
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\obj\Debug\Ambulance.csproj.AssemblyReference.cache
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\obj\Debug\Ambulance.csproj.SuggestedBindingRedirects.cache
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\obj\Debug\MainWindow.g.cs
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\obj\Debug\App.g.cs
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\obj\Debug\Ambulance_MarkupCompile.cache
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\obj\Debug\Ambulance_MarkupCompile.lref
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\obj\Debug\App.baml
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\obj\Debug\MainWindow.baml
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\obj\Debug\Ambulance.g.resources
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\obj\Debug\Ambulance.Properties.Resources.resources
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\obj\Debug\Ambulance.csproj.GenerateResource.cache
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\obj\Debug\Ambulance.csproj.CoreCompileInputs.cache
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\obj\Debug\Ambulance.csproj.CopyComplete
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\obj\Debug\Ambulance.exe
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\obj\Debug\Ambulance.pdb
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\ControlzEx.dll
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\MahApps.Metro.dll
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\MaterialDesignThemes.MahApps.dll
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\ControlzEx.pdb
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\ControlzEx.xml
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\MahApps.Metro.pdb
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\MahApps.Metro.xml
+D:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\MaterialDesignThemes.MahApps.pdb
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\ControlzEx.dll
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\MahApps.Metro.dll
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\MaterialDesignThemes.MahApps.dll
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\ControlzEx.pdb
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\ControlzEx.xml
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\MahApps.Metro.pdb
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\MahApps.Metro.xml
+C:\Учеба\Работы\БДиСУБД\Курсач\Ambulance\bin\Debug\MaterialDesignThemes.MahApps.pdb
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\Ambulance.exe.config
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\Ambulance.exe
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\Ambulance.pdb
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\ControlzEx.dll
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\MahApps.Metro.dll
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\MaterialDesignColors.dll
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\MaterialDesignThemes.MahApps.dll
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\Npgsql.dll
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\System.Buffers.dll
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\System.Collections.Immutable.dll
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\System.Memory.dll
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\System.Numerics.Vectors.dll
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\System.Text.Encodings.Web.dll
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\System.Text.Json.dll
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\System.Threading.Channels.dll
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\System.ValueTuple.dll
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\ControlzEx.pdb
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\ControlzEx.xml
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\MahApps.Metro.pdb
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\MahApps.Metro.xml
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\MaterialDesignColors.pdb
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\MaterialDesignThemes.MahApps.pdb
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\Npgsql.xml
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\System.Buffers.xml
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\System.Collections.Immutable.xml
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\System.Memory.xml
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\System.Numerics.Vectors.xml
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\System.Text.Encodings.Web.xml
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\System.Text.Json.xml
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\System.Threading.Channels.xml
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\System.ValueTuple.xml
+D:\Проекты программирование\БД и СУБД\Ambulance\obj\Debug\Ambulance.csproj.AssemblyReference.cache
+D:\Проекты программирование\БД и СУБД\Ambulance\obj\Debug\Ambulance.csproj.SuggestedBindingRedirects.cache
+D:\Проекты программирование\БД и СУБД\Ambulance\obj\Debug\MainWindow.g.cs
+D:\Проекты программирование\БД и СУБД\Ambulance\obj\Debug\App.g.cs
+D:\Проекты программирование\БД и СУБД\Ambulance\obj\Debug\Ambulance_MarkupCompile.cache
+D:\Проекты программирование\БД и СУБД\Ambulance\obj\Debug\Ambulance_MarkupCompile.lref
+D:\Проекты программирование\БД и СУБД\Ambulance\obj\Debug\App.baml
+D:\Проекты программирование\БД и СУБД\Ambulance\obj\Debug\MainWindow.baml
+D:\Проекты программирование\БД и СУБД\Ambulance\obj\Debug\Ambulance.g.resources
+D:\Проекты программирование\БД и СУБД\Ambulance\obj\Debug\Ambulance.Properties.Resources.resources
+D:\Проекты программирование\БД и СУБД\Ambulance\obj\Debug\Ambulance.csproj.GenerateResource.cache
+D:\Проекты программирование\БД и СУБД\Ambulance\obj\Debug\Ambulance.csproj.CoreCompileInputs.cache
+D:\Проекты программирование\БД и СУБД\Ambulance\obj\Debug\Ambulance.csproj.CopyComplete
+D:\Проекты программирование\БД и СУБД\Ambulance\obj\Debug\Ambulance.exe
+D:\Проекты программирование\БД и СУБД\Ambulance\obj\Debug\Ambulance.pdb
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\Ambulance.exe.config
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\Ambulance.exe
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\Ambulance.pdb
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\ControlzEx.dll
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\MahApps.Metro.dll
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\MaterialDesignColors.dll
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\MaterialDesignThemes.MahApps.dll
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\Npgsql.dll
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\System.Buffers.dll
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\System.Collections.Immutable.dll
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\System.Memory.dll
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\System.Numerics.Vectors.dll
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\System.Text.Encodings.Web.dll
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\System.Text.Json.dll
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\System.Threading.Channels.dll
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\System.ValueTuple.dll
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\ControlzEx.pdb
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\ControlzEx.xml
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\MahApps.Metro.pdb
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\MahApps.Metro.xml
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\MaterialDesignColors.pdb
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\MaterialDesignThemes.MahApps.pdb
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\Npgsql.xml
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\System.Buffers.xml
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\System.Collections.Immutable.xml
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\System.Memory.xml
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\System.Numerics.Vectors.xml
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\System.Text.Encodings.Web.xml
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\System.Text.Json.xml
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\System.Threading.Channels.xml
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Проекты программирование\БД и СУБД\Ambulance\bin\Debug\System.ValueTuple.xml
+C:\Проекты программирование\БД и СУБД\Ambulance\obj\Debug\Ambulance.csproj.AssemblyReference.cache
+C:\Проекты программирование\БД и СУБД\Ambulance\obj\Debug\Ambulance.csproj.SuggestedBindingRedirects.cache
+C:\Проекты программирование\БД и СУБД\Ambulance\obj\Debug\MainWindow.g.cs
+C:\Проекты программирование\БД и СУБД\Ambulance\obj\Debug\App.g.cs
+C:\Проекты программирование\БД и СУБД\Ambulance\obj\Debug\Ambulance_MarkupCompile.cache
+C:\Проекты программирование\БД и СУБД\Ambulance\obj\Debug\Ambulance_MarkupCompile.lref
+C:\Проекты программирование\БД и СУБД\Ambulance\obj\Debug\App.baml
+C:\Проекты программирование\БД и СУБД\Ambulance\obj\Debug\MainWindow.baml
+C:\Проекты программирование\БД и СУБД\Ambulance\obj\Debug\Ambulance.g.resources
+C:\Проекты программирование\БД и СУБД\Ambulance\obj\Debug\Ambulance.Properties.Resources.resources
+C:\Проекты программирование\БД и СУБД\Ambulance\obj\Debug\Ambulance.csproj.GenerateResource.cache
+C:\Проекты программирование\БД и СУБД\Ambulance\obj\Debug\Ambulance.csproj.CoreCompileInputs.cache
+C:\Проекты программирование\БД и СУБД\Ambulance\obj\Debug\Ambulance.csproj.CopyComplete
+C:\Проекты программирование\БД и СУБД\Ambulance\obj\Debug\Ambulance.exe
+C:\Проекты программирование\БД и СУБД\Ambulance\obj\Debug\Ambulance.pdb
